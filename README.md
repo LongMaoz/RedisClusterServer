@@ -1,2 +1,2 @@
 # RedisClusterServer
-Redis队列连接服务
+Redis集群模式连接服务
